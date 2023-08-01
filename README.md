@@ -2,7 +2,7 @@
 
 ## View
 
-View my work : https://portfoliodhruvraj.000webhostapp.com/
+Visit my work : https://portfoliodhruvraj.000webhostapp.com/
 
 ## Overview
 
