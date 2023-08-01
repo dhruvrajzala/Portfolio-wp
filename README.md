@@ -27,4 +27,3 @@ This project is a personal portfolio website created using WordPress and its var
 This portfolio website project demonstrates my web development skills, creativity, and ability to showcase my work in an organized and systematic manner. I liked every part of the formation process and looking forward to work more.
 
 Thank You!
-https://portfoliodhruvraj.000webhostapp.com/
